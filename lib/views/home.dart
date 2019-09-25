@@ -329,7 +329,7 @@ class _DashboardViewState extends State<DashboardView> {
                       groupsAmount: 4,
                       paymentAmount: 7,
                     ),
-                    RecentCards(title: 'Extradite\nInitiative',
+                    RecentCards(title: 'Extradite\nComposite',
                       chatAmount: 3,
                       groupsAmount: 0,
                       paymentAmount: 0,
