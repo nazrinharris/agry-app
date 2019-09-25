@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "62886228123",
+    "firebase_url": "https://agry-f9ce6.firebaseio.com",
+    "project_id": "agry-f9ce6",
+    "storage_bucket": "agry-f9ce6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62886228123:android:b3ad5b88ae76be7a",
+        "android_client_info": {
+          "package_name": "com.ferte.agry_app_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62886228123-0f0posppuufrr6qle340fl9dsrq9j6lk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDovwVTNrTZOoEqQj716ksvGtjdoNWrdUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62886228123-0f0posppuufrr6qle340fl9dsrq9j6lk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
